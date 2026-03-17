@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ed Lorenz</h1>
+<h1 align="center">Hi 👋, I'm Ed Lorenz Villarasa</h1>
 <h3 align="center">UI/UX Designer • Web Developer • Technical Documenter</h3>
 
 <p align="center">
@@ -45,7 +45,7 @@ I enjoy combining **design thinking, development, and documentation** to build h
 ## ⚡ Technologies I Use
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode,netbeans,javagui" />
 </p>
 
 ---
