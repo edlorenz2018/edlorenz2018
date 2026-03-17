@@ -24,9 +24,9 @@ I enjoy combining **design thinking, development, and documentation** to build h
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎨%20UI%2FUX%20Design-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻%20Web%20Development-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📝%20Documentation-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎨%20UI%2FUX%20Design-344e41?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻%20Web%20Development-3a5a40?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝%20Documentation-588157?style=for-the-badge" />
 </p>
 
 ---
