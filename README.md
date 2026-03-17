@@ -45,7 +45,7 @@ I enjoy combining **design thinking, development, and documentation** to build h
 ## ⚡ Technologies I Use
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode,netbeans,javagui" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode," />
 </p>
 
 ---
@@ -63,20 +63,20 @@ I enjoy combining **design thinking, development, and documentation** to build h
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=edlorenz2018&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edlorenz2018&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: your-email@example.com  
+📧 Email: edlorenzvil2018@gmail.com  
 💼 Portfolio: your-portfolio-link  
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/edlorenz2018
 
 ---
 
