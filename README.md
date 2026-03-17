@@ -96,7 +96,6 @@ I enjoy combining **design thinking, development, and documentation** to build h
 ## 🌐 Connect With Me
 
 📧 Email: edlorenzvil2018@gmail.com  
-💼 Portfolio: your-portfolio-link  
 🐙 GitHub: https://github.com/edlorenz2018
 
 ---
