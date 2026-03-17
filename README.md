@@ -19,14 +19,8 @@ Creating meaningful digital experiences through design, development, and clear d
 
 I enjoy combining **design thinking, development, and documentation** to build high-quality systems.
 
----
-<!-- 🔥 HEADER BANNER (Background Style) -->
-<p align="center">
-  <img src="https://beadazzle.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=200&section=header&text=Ed%20Lorenz&fontSize=40&fontColor=ffffff" />
-</p>
 
 ---
-
 ## 🛠️ Skills & Tools
 
 <p align="center">
@@ -107,8 +101,3 @@ I enjoy combining **design thinking, development, and documentation** to build h
 
 ---
 ⭐ *“Design is not just how it looks, but how it works.”*
-<!-- 🔥 FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A66C2&height=120&section=footer"/>
-</p>
-
